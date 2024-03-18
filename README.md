@@ -8,7 +8,7 @@ Sure, here's a brief summary of each of the 18 assignments:
 
 3. Simple Neural Network with NumPy: Implementing the same coffee roasting network using NumPy for neural network construction.
 
-4. Neural Networks for Handwritten Digit Recognition (Binary)**: Using a neural network to recognize handwritten digits zero and one, a binary classification task.
+4. Neural Networks for Handwritten Digit Recognition (Binary): Using a neural network to recognize handwritten digits zero and one, a binary classification task.
 
 5. Neural Networks for Handwritten Digit Recognition (Multiclass): Extending the binary digit recognition to classify digits from zero to nine, a multiclass classification task.
 
